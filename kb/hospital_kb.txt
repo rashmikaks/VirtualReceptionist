@@ -1,0 +1,5 @@
+Welcome to CityCare Hospital.
+Departments: Cardiology, Neurology, Pediatrics, Orthopedics.
+Working hours: 9 AM to 6 PM, Monday to Saturday.
+Emergency services available 24/7.
+You can book appointments online or by calling +91-9876543210.
